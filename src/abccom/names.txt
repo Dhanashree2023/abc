@@ -3,8 +3,7 @@ A
 B
 C
 D
-E
-F
+
 
 Numbers
 1
@@ -16,3 +15,5 @@ Numbers
 7
 9
 10
+
+>>>>>>> master
